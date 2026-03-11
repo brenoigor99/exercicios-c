@@ -14,4 +14,5 @@ Atualmente, o projeto conta com os seguintes programas:
 
 ## 🛠️ Como Compilar e Rodar
 ```bash
-gcc exercicioN.c -o exercicioN
+gcc ExercicioN.c -o ExercicioN
+./ExercicioN
